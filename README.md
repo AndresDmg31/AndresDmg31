@@ -15,7 +15,7 @@
 
 Ingeniero Electrónico y **desarrollador iOS nativo (Swift)** con experiencia construyendo apps **end-to-end**: arquitectura, desarrollo, pruebas y despliegue en **App Store/TestFlight**. Trabajo con **VIPER/MVVM**, **CocoaPods/XCFrameworks**, **SwiftUI/Combine**, **CoreData**, **REST**, **Firebase**, y ambientes de banca digital (**Backbase**).  
 🎓 **Especialización en Gerencia para el Desarrollo Organizacional** y **Diplomado en Gestión de Proyectos**; ya graduado, pero **en permanente fortalecimiento** de estas competencias para alinear tecnología, equipos y negocio.  
-> 💙 Además, también desarrollo con **Flutter** (≈ **1 año** en **proyectos pequeños**), enfocándome en **UI limpia**, buenas prácticas, conexión con **Firebase** y consumo de APIs.
+>  Además, también desarrollo con **Flutter** (≈ **1 año** en **proyectos pequeños**), enfocándome en **UI limpia**, buenas prácticas, conexión con **Firebase** y consumo de APIs.
 
 ---
 
