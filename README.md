@@ -55,7 +55,7 @@ Ingeniero Electrónico y **desarrollador iOS nativo (Swift)** con experiencia co
   <tr>
     <td align="center">
       <a href="https://github.com/AndresDmg31/mandapaya-ios">
-        <img src="https://img.shields.io/badge/MandaPaya-iOS%20·%20VIPER%20·%20SPM-2563eb?logo=apple&logoColor=white" alt="MandaPaya iOS"/>
+        <img src="https://img.shields.io/badge/MandaPaya-iOS%20·%20VIPER%20-2563eb?logo=apple&logoColor=white" alt="MandaPaya iOS"/>
       </a>
       <br/><sub>Transferencias 🇨🇴→🇻🇪 · modular · TestFlight/App Store</sub>
     </td>
